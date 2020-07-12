@@ -1,0 +1,7 @@
+Create a quiz using JavaScript.
+2. It will start by asking the user to type in answers to 5+ questions using a prompt() box.
+3. For the answers the user gets correct, it stores those answers in a list and displays the questions to the DOM.
+4. For the answers the user gets incorrect, it stores those answers in a list and displays the questions to the DOM.
+5. Add in a count of how many answers the user got correct.
+
+** NOTE: use multidimensional arrays, while loops, DOM manipulation **
